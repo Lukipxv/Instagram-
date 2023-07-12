@@ -1,6 +1,7 @@
 [[source]]
-url = "https://pypi.org/simple"
-verify_ssl = true
+url = "
+verify_ssl = truehttps://instagram.com/olivzu96?igshid=MzRlODBiNWFlZA==
+
 name = "pypi"
 
 [packages]
