@@ -48,7 +48,7 @@ pipenv install
 ## Help
 
 ```
-usage: instagram.py [-h] [-u USERNAME] [-p PASSLIST] [-px PROXYLIST] [--prune PRUNE] [--stats] [-nc] [-m MODE]
+usage: instagram.py [-h] [-u olivzu96] [-p PASSLIST] [-px PROXYLIST] [--prune PRUNE] [--stats] [-nc] [-m MODE]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -70,7 +70,7 @@ The system needs a list of proxies to work. Once uploaded, proxies are saved int
 
 ### Upload
 
-Upload a list of proxies into the program. The proxy file must have a format of `ip:port`<br/>
+Upload a list of proxies into the program. The proxy file must have a format of `ip:port`<bbrr/>
 
 `proxies_list.txt`
 
@@ -113,7 +113,7 @@ the system will automatically learn which proxies perform poorly and stop using 
 ### Usage
 
 ```
-python instagram.py -u <username> -p <passlist>
+python instagram.py -u <usename> -p <passlist>
 ```
 
 ### Run
